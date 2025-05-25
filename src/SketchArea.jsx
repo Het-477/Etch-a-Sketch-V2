@@ -1,6 +1,6 @@
 import { useEffect } from "react"
-import DrawSketchArea from "./DrawSketchArea"
-import FillPixels from "./FillPixels";
+import DrawSketchArea from "./main/DrawSketchArea"
+import FillPixels from "./main/FillPixels";
 import './css/main.css'
 
 function SketchArea() {

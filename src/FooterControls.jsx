@@ -1,5 +1,5 @@
-import FillRandomColor from "./FillRandomColor";
-import FillSpecificColor from "./FillSpecificColor";
+import FillRandomColor from "./main/FillRandomColor";
+import FillSpecificColor from "./main/FillSpecificColor";
 
 function FooterControls() {
     return (
